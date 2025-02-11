@@ -2,6 +2,7 @@
 title: "Why 80/90 is yesterday's solution to tomorrow's problem"
 author: "Robert Ritz"
 date: "2025-02-11"
+excerpt: "Why I don't believe Chamath's bet will work out."
 ---
 
 Slack used to be the scrappy startup and seemed like a low cost choice to keep in touch. Over the years it has become a massive line item on each of their large customers budgets. It is the same story with many SaaS products companies rely on to operate. Chamath Palihapitiya, a VC and co-host on the All-In podcast, started an "incubator" that aims to solve this issue with "AI". They are calling it 8090 Solutions ([8090.inc](https://www.8090.inc/)) in 2024. Chamath claims it will deliver **80% feature complete software for a 90% reduction in price**. Sounds like a great solution to balance the per seat budget creep of Slack et al. right?
