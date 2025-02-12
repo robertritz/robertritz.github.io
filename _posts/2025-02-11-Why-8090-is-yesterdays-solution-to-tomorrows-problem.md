@@ -23,13 +23,17 @@ To consider how these assumption might change, I came up with a few different wa
 
 If AI enabled software developers can put out 10X the software, we might see a million SaaS startups blooming. Due to increased competition, each will be smaller than the unicorns of the Web 2.0/ZIRP era. Additionally, these SaaS products will be highly differentiated compared to SaaS today. Most businesses would be able to find a software that matches their exact needs, rather than conforming to the processes of the software. 
 
-In this future, you can state your needs and someone in the market probably made it. Maybe as a side project, and maybe it is part of a portfolio of SaaS that the developer has built.
+In this future, you can state your needs and someone in the market probably made it. The price might be comparable to today, but it would be much more tailored to our needs. Developers in this future should expect to be paid less per SaaS, but may be able to offer a portfolio of apps, or work on several side projects and have those as extra income streams.
+
+Discovery will be the biggest issue in this future, so expect that having an audience and/or knowing how to do marketing will be key differentiators. Perhaps a whole new line of AI enabled discovery tools will emerge to solve this problem. 
 
 ## Customized Future
 
 If AI enabled software developers can put out 10X the software, we might see that customization becomes an expected part of any SaaS. Today we have static SaaS that you purchase and updates come out incrementally. A customized future is one where, as part of the purchase price, you can customize features of the SaaS to follow your business processes or logic. If it's 10X more efficient to make software one way to keep prices high is to offer customization. If Slack wants to justify $15 a seat forever they will need to give you a reason to stay. Customization could give them that justification. Want role based access control that syncs with your ERP? Sure. Do you want a boss god mode so you can snoop on your employees? Why not Mr. Toxic Middle Manager. 
 
-Does this future sound familiar? Yep, it's exactly how SAP and the other archaic software providers made their money. So this future might look a lot like the past. 
+This is a lot like how large ERP software was customized for Fortune 500 companies (SAP, I'm talking about you). The big difference is that in this future you just need 1-2 developers instead of a team of road warriors with their inflated salaries and per diems. 
+
+Personally I like this future better. Partly because I've been living it for several years.
 
 ## My Own Customized Future is Now
 
@@ -41,5 +45,5 @@ There was a common theme that emerged with all of this software. When users want
 
 In a way this has been great because I can launch an internal MVP, get feedback, and then interate to something that is mostly complete. The cost was my time and hosting. But it wasn't all positive. This method of software development created a situation where I was building a plane while flying it. Schemas change, features are abandoned, and generally everyone feels that it isn't "ready" until the 6-12 months later. 
 
-Personally I feel that a customized software future is preferrable to millions of SaaS applications to choose from. We already have an abundance of choice. It would be better if we had an opinion about what we wanted and then made that a reality.
+Personally I feel that a customized software future is preferrable to millions of SaaS applications to choose from. We already have an abundance of choice. It would be better if we had an opinion about what we wanted and then made that a reality rather than trusting an influencer from the internet. 
 
